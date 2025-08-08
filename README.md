@@ -109,14 +109,3 @@ Prerequisites
 
 ---------------------------------------------------------------------------------------
 
-# Deployment on Streamlit Community Cloud
-The EcoScan application is deployed and hosted on Streamlit Community Cloud. Users can access the app directly without needing to install any additional dependencies locally.
-
-🚀 Access the Deployed App
-Visit the EcoScan app here: https://ecoscanchallenge.streamlit.app/
-
-🌟 Deployment Highlights
-
-Hosted on Streamlit Community Cloud.
-No setup required for users—just click the link to access the app.
-Automatically updated whenever the GitHub repository is updated (linked with Streamlit Community Cloud).
