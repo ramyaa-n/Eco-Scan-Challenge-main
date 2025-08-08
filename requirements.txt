@@ -1,0 +1,7 @@
+streamlit # Streamlit for the frontend
+openai     # OpenAI Python library for GPT-4 integration
+pandas      # For handling the carbon footprint data table
+requests   # To fetch Lottie animations or external data
+streamlit-lottie  # To render Lottie animations in the Streamlit app
+pytest  # For writing and running tests
+python-dotenv
